@@ -463,7 +463,7 @@ The repository is pre-configured for instant zero-config deployment on **[Stream
 
 1. **Sign in to Streamlit Cloud**: Go to [share.streamlit.io](https://share.streamlit.io) and authenticate with your GitHub account.
 2. **Click "New app"**:
-   * **Repository**: Select `aba47/Smart-Grammar-Checker` (Supports private repositories seamlessly).
+   * **Repository**: Select `Anjalipote/Smart-Grammar-Checker` (Supports public and private repositories seamlessly).
    * **Branch**: `main`
    * **Main file path**: `app.py`
 3. **Click "Deploy!"**: Streamlit Cloud will automatically detect `requirements.txt`, configure the light theme from `.streamlit/config.toml`, and spin up the live application in seconds.
